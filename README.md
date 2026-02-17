@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Introduction to Git](https://www.theodinproject.com/lessons/foundations-introduction-to-git)
+- **Current Module:** [Git Basics](https://www.theodinproject.com/lessons/foundations-git-basics)
 - **Status:** Active
 
 ---
@@ -14,6 +14,9 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 
 ### [1. Prequisites](./01-prequisites)
 - [Command Line Basics](./01-prequisites/01-command-line-basics.md)
+
+### [2. Git Basics](./02-git-basics)
+- [Introduction to Git](./02-git-basics/01-introduction-to-git.md)
 
 ---
 

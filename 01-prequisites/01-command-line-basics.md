@@ -43,7 +43,7 @@ The system is an “upside-down tree.” The very top is **Root (`/`)**.
 - `mv`: Move or **Rename** a file (`mv old.txt new.txt`).
 - `cp`: Copy a file. Use `cp -r` to copy entire directories.
 - `rm`: Remove a file.
-    - **Warning**: There is no “Trash Bin” here. Once it’s gone, it’s gone.
+    - **Warning:** There is no “Trash Bin” here. Once it’s gone, it’s gone.
     - Use `rm -i` for a safety confirmation prompt.
 
 ---
@@ -77,7 +77,7 @@ When stuck:
 
 To avoid “breaking” your commands, follow these rules:
 
-1. **No Spaces**: Use `under_scores` or `hypens-instead`.
-2. **Avoid leading dashes**: Names like `-file.txt` confuse the CLI for an option.
-3. **Stick to Lowercase**: Prevents confusion between `Thesis` and `thesis`.
-4. **Extensions matter (mostly)**: `.png` doesn’t make a file an image, but it helps the OS know which program to use.
+1. **No Spaces:** Use `under_scores` or `hypens-instead`.
+2. **Avoid leading dashes:** Names like `-file.txt` confuse the CLI for an option.
+3. **Stick to Lowercase:** Prevents confusion between `Thesis` and `thesis`.
+4. **Extensions matter (mostly):** `.png` doesn’t make a file an image, but it helps the OS know which program to use.
