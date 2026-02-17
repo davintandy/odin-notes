@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Introduction to HTML and CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)
+- **Current Module:** [Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
 - **Status:** Active
 
 ---
@@ -18,6 +18,9 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ### [2. Git Basics](./02-git-basics)
 - [Introduction to Git](./02-git-basics/01-introduction-to-git.md)
 - [Git Basics](./02-git-basics/02-git-basics.md)
+
+### [3. HTML Foundations](./03-html-foundations)
+- [Introduction to HTML and CSS](./03-html-foundations/01-introduction-to-html-and-css.md)
 
 ---
 
