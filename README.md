@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [HTML Boilerplate](https://www.theodinproject.com/lessons/foundations-html-boilerplate)
+- **Current Module:** [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 - **Status:** Active
 
 ---
@@ -22,6 +22,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ### [3. HTML Foundations](./03-html-foundations)
 - [Introduction to HTML and CSS](./03-html-foundations/01-introduction-to-html-and-css.md)
 - [Elements and Tags](./03-html-foundations/02-elements-and-tags.md)
+- [HTML Boilerplate](./03-html-foundations/03-html-boilerplate.md)
 
 ---
 
