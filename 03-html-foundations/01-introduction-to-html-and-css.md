@@ -2,12 +2,16 @@
 
 Every website you visit is built using these two fundamental languages. While they work together, they have very different jobs.
 
+---
+
 ## HTML (HyperText Markup Language)
 
 **”The Skeleton”** HTML is the raw data and structure of your webpage. It’s used to define the actual content that appears on the screen.
 
 - **Elements include:** Text, links, images, buttons, and lists.
 - **Purpose:** To give the page substance and hierarchy.
+
+---
 
 ## CSS (Cascading Style Sheets)
 
