@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+- **Current Module:** [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 - **Status:** Active
 
 ---
@@ -25,6 +25,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [HTML Boilerplate](./03-html-foundations/03-html-boilerplate.md)
 - [Working with Text](./03-html-foundations/04-working-with-text.md)
 - [Lists](./03-html-foundations/05-lists.md)
+- [Links and Images](./03-html-foundations/06-links-and-images.md)
 
 ---
 

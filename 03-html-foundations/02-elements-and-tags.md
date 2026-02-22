@@ -37,13 +37,3 @@ Some elements are “loners” - they don’t have a closing tag because they do
 
 - **Common Examples:** `<br>` (line break) or `<img>` (image).
 - **Note on Syntax:** You might see them written as `<br />`. While browsers still read this, the modern HTML spec prefers the cleaner `<br>` and considers the extra slash unnecessary.
-
----
-
-## Quick Summary
-
-| **Concept** | **Definition** | **Example** |
-| --- | --- | --- |
-| **Tag** | The individual code markers. | `<p>` or `</p>` |
-| **Element** | The full setup (Tags + Content). | `<p>Hello!</p>` |
-| **Void Element** | A single tag with no closing pair. | `<img>` |
