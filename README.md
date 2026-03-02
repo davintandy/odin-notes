@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
+- **Current Module:** [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
 - **Status:** Active
 
 ---
@@ -27,6 +27,9 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Lists](./03-html-foundations/05-lists.md)
 - [Links and Images](./03-html-foundations/06-links-and-images.md)
 - [Commit Messages](./03-html-foundations/07-commit-messages.md)
+
+### [4. CSS Foundations](./04-css-foundations/)
+- [Intro to CSS](./04-css-foundations/01-intro-to-css.md)
 
 ---
 
