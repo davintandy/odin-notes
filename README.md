@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
+- **Current Module:** [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 - **Status:** Active
 
 ---
@@ -31,6 +31,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ### [4. CSS Foundations](./04-css-foundations/)
 - [Intro to CSS](./04-css-foundations/01-intro-to-css.md)
 - [The Cascade](./04-css-foundations/02-the-cascade.md)
+- [Inspecting HTML and CSS](./04-css-foundations/03-inspecting-html-and-css.md)
 
 ---
 
