@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+- **Current Module:** [Introduction to Flexbox](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox)
 - **Status:** Active
 
 ---
@@ -33,6 +33,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [The Cascade](./04-css-foundations/02-the-cascade.md)
 - [Inspecting HTML and CSS](./04-css-foundations/03-inspecting-html-and-css.md)
 - [The Box Model](./04-css-foundations/04-the-box-model.md)
+- [Block and Inline](./04-css-foundations/05-block-and-inline.md)
 
 ---
 
