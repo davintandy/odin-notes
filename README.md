@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
+- **Current Module:** [Axes](https://www.theodinproject.com/lessons/foundations-axes)
 - **Status:** Active
 
 ---
@@ -37,6 +37,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 
 ### [5. Flexbox](./05-flexbox/)
 - [Introduction to Flexbox](./05-flexbox/01-introduction-to-flexbox.md)
+- [Growing and Shrinking](./05-flexbox/02-growing-and-shrinking.md)
 
 ---
 
