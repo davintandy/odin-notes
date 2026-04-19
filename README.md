@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
+- **Current Module:** [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
 - **Status:** Active
 
 ---
@@ -39,6 +39,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Introduction to Flexbox](./05-flexbox/01-introduction-to-flexbox.md)
 - [Growing and Shrinking](./05-flexbox/02-growing-and-shrinking.md)
 - [Axes](./05-flexbox/03-axes.md)
+- [Alignment](./05-flexbox/04-alignment.md)
 
 ---
 
