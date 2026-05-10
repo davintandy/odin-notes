@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
+- **Current Module:** [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
 - **Status:** Active
 
 ---
@@ -40,6 +40,9 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Growing and Shrinking](./05-flexbox/02-growing-and-shrinking.md)
 - [Axes](./05-flexbox/03-axes.md)
 - [Alignment](./05-flexbox/04-alignment.md)
+
+### [6. JavaScript Basics](./06-javascript-basics/)
+- [Variables and Operators](./06-javascript-basics/variables-and-operators.md)
 
 ---
 
