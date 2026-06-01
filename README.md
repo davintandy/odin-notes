@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Installing Node.js](https://www.theodinproject.com/lessons/foundations-installing-node-js)
+- **Current Module:** [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 - **Status:** Active
 
 ---
@@ -43,6 +43,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 
 ### [6. JavaScript Basics](./06-javascript-basics/)
 - [Variables and Operators](./06-javascript-basics/variables-and-operators.md)
+- [Data Types and Conditinoals](./06-javascript-basics/data-types-and-conditionals.md)
 
 ---
 
