@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
+- **Current Module:** [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
 - **Status:** Active
 
 ---
@@ -45,6 +45,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Variables and Operators](./06-javascript-basics/variables-and-operators.md)
 - [Data Types and Conditinoals](./06-javascript-basics/data-types-and-conditionals.md)
 - [JavaScript Developer Tools](./06-javascript-basics/javascript-developer-tools.md)
+- [Function Basics](./06-javascript-basics/function-basics.md)
 
 ---
 
