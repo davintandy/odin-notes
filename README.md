@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
+- **Current Module:** [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 - **Status:** Active
 
 ---
@@ -46,6 +46,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Data Types and Conditinoals](./06-javascript-basics/data-types-and-conditionals.md)
 - [JavaScript Developer Tools](./06-javascript-basics/javascript-developer-tools.md)
 - [Function Basics](./06-javascript-basics/function-basics.md)
+- [Problem Solving](./06-javascript-basics/problem-solving.md)
 
 ---
 
