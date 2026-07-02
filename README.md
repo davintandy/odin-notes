@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
+- **Current Module:** [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)
 - **Status:** Active
 
 ---
@@ -47,6 +47,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [JavaScript Developer Tools](./06-javascript-basics/javascript-developer-tools.md)
 - [Function Basics](./06-javascript-basics/function-basics.md)
 - [Problem Solving](./06-javascript-basics/problem-solving.md)
+- [Understanding Errors](./06-javascript-basics/understanding-errors.md)
 
 ---
 
