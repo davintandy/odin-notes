@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Clean Code](https://www.theodinproject.com/lessons/foundations-clean-code)
+- **Current Module:** [Loops and Arrays](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
 - **Status:** Active
 
 ---
@@ -48,6 +48,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Function Basics](./06-javascript-basics/function-basics.md)
 - [Problem Solving](./06-javascript-basics/problem-solving.md)
 - [Understanding Errors](./06-javascript-basics/understanding-errors.md)
+- [Clean Code](./06-javascript-basics/clean-code.md)
 
 ---
 
