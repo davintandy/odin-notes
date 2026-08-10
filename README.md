@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [DOM Manipulation and Events](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+- **Current Module:** [Object Basics](https://www.theodinproject.com/lessons/foundations-object-basics)
 - **Status:** Active
 
 ---
@@ -50,6 +50,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Understanding Errors](./06-javascript-basics/understanding-errors.md)
 - [Clean Code](./06-javascript-basics/clean-code.md)
 - [Loops and Arrays](./06-javascript-basics/loops-and-arrays.md)
+- [DOM Manipulation and Event](./06-javascript-basics/dom-manipulation-and-events.md)
 
 ---
 
