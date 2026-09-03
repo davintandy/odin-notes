@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Introduction](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)
+- **Current Module:** [Tables](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables)
 - **Status:** Active
 
 ---
@@ -58,6 +58,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ### [Intermediate HTML and CSS](./02-intermediate-html-and-css/)
 
 **[1. Intermediate HTML Concepts](./02-intermediate-html-and-css/01-intermediate-html-concepts/)**
+- [SVG](./02-intermediate-html-and-css/01-intermediate-html-concepts/01-svg.md)
 
 ---
 
