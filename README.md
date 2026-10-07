@@ -5,7 +5,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 ---
 
 ## Progress Dashboard
-- **Current Module:** [More Text Styles](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-text-styles)
+- **Current Module:** [More CSS Properties](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-more-css-properties)
 - **Status:** Active
 
 ---
@@ -62,6 +62,7 @@ This repository is a collection of my notes, summaries, and key takeaways as I w
 - [Tables](./02-intermediate-html-and-css/01-intermediate-html-concepts/02-tables.md)
 - [Default Styles](./02-intermediate-html-and-css/01-intermediate-html-concepts/03-default-styles.md)
 - [CSS Units](./02-intermediate-html-and-css/01-intermediate-html-concepts/04-css-units.md)
+- [More Text Styles](./02-intermediate-html-and-css/01-intermediate-html-concepts/05-more-text-styles.md)
 
 ---
 
