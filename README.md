@@ -20,6 +20,9 @@ My personal notes and summaries as I work through The Odin Project and learn web
 - [2. Git Basics](./01-foundations/02-git-basics/)
   - [Introduction to Git](./01-foundations/02-git-basics/01-introduction-to-git.md)
 
+- [3. HTML Foundations](./01-foundations/03-html-foundations)
+  - [Elements and Tags](./01-foundations/03-html-foundations/01-elements-and-tags.md)
+
 ---
 
 ## Connect with Me
