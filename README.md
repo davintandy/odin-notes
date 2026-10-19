@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Elements and Tags](https://www.theodinproject.com/lessons/foundations-elements-and-tags)
+- **Current Module:** [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
 - **Status:** Active
 
 ---
@@ -22,6 +22,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 
 - [3. HTML Foundations](./01-foundations/03-html-foundations)
   - [Elements and Tags](./01-foundations/03-html-foundations/01-elements-and-tags.md)
+  - [HTML Boilerplate](./01-foundations/03-html-foundations/02-html-boilerplate.md)
 
 ---
 
