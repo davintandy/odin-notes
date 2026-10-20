@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Working with Text](https://www.theodinproject.com/lessons/foundations-working-with-text)
+- **Current Module:** [Lists](https://www.theodinproject.com/lessons/foundations-lists)
 - **Status:** Active
 
 ---
@@ -14,15 +14,16 @@ My personal notes and summaries as I work through The Odin Project and learn web
 
 ### [Foundations](./01-foundations/)
 
-- [1. Prequisites](./01-foundations/01-prequisites)
+- [Prequisites](./01-foundations/01-prequisites)
   - [Command Line Basics](./01-foundations/01-prequisites/01-command-line-basics.md)
 
-- [2. Git Basics](./01-foundations/02-git-basics/)
+- [Git Basics](./01-foundations/02-git-basics/)
   - [Introduction to Git](./01-foundations/02-git-basics/01-introduction-to-git.md)
 
-- [3. HTML Foundations](./01-foundations/03-html-foundations)
+- [HTML Foundations](./01-foundations/03-html-foundations)
   - [Elements and Tags](./01-foundations/03-html-foundations/01-elements-and-tags.md)
   - [HTML Boilerplate](./01-foundations/03-html-foundations/02-html-boilerplate.md)
+  - [Working with Text](./01-foundations/03-html-foundations/03-working-with-text.md)
 
 ---
 
