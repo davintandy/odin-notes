@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Links and Images](https://www.theodinproject.com/lessons/foundations-links-and-images)
+- **Current Module:** [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
 - **Status:** Active
 
 ---
@@ -25,6 +25,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
   - [HTML Boilerplate](./01-foundations/03-html-foundations/02-html-boilerplate.md)
   - [Working with Text](./01-foundations/03-html-foundations/03-working-with-text.md)
   - [Lists](./01-foundations/03-html-foundations/04-lists.md)
+  - [Links and Images](./01-foundations/03-html-foundations/05-links-and-images.md)
 
 ---
 
