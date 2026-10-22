@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
+- **Current Module:** [Intro to CSS](https://www.theodinproject.com/lessons/foundations-intro-to-css)
 - **Status:** Active
 
 ---
@@ -26,6 +26,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
   - [Working with Text](./01-foundations/03-html-foundations/03-working-with-text.md)
   - [Lists](./01-foundations/03-html-foundations/04-lists.md)
   - [Links and Images](./01-foundations/03-html-foundations/05-links-and-images.md)
+  - [Commit Messages](./01-foundations/03-html-foundations/06-commit-messages.md)
 
 ---
 
