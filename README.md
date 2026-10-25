@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [The Cascade](https://www.theodinproject.com/lessons/foundations-the-cascade)
+- **Current Module:** [Inspecting HTML and CSS](https://www.theodinproject.com/lessons/foundations-inspecting-html-and-css)
 - **Status:** Active
 
 ---
@@ -30,6 +30,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 
 - [CSS Foundations](./01-foundations/04-css-foundations/)
   - [Intro to CSS](./01-foundations/04-css-foundations/01-intro-to-css.md)
+  - [The Cascade](./01-foundations/04-css-foundations/02-the-cascade.md)
 
 ---
 
