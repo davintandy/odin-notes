@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Block and Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+- **Current Module:** [Introduction to Flexbox]()
 - **Status:** Active
 
 ---
@@ -33,6 +33,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
   - [The Cascade](./01-foundations/04-css-foundations/02-the-cascade.md)
   - [Inspecting HTML and CSS](./01-foundations/04-css-foundations/03-inspecting-html-and-css.md)
   - [The Box Model](./01-foundations/04-css-foundations/04-the-box-model.md)
+  - [Block and Inline](./01-foundations/04-css-foundations/05-block-and-inline.md)
 
 ---
 
