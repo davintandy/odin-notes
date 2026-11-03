@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Introduction to Flexbox]()
+- **Current Module:** [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking)
 - **Status:** Active
 
 ---
@@ -34,6 +34,9 @@ My personal notes and summaries as I work through The Odin Project and learn web
   - [Inspecting HTML and CSS](./01-foundations/04-css-foundations/03-inspecting-html-and-css.md)
   - [The Box Model](./01-foundations/04-css-foundations/04-the-box-model.md)
   - [Block and Inline](./01-foundations/04-css-foundations/05-block-and-inline.md)
+
+- [Flexbox](./01-foundations/05-flexbox/)
+  - [Introduction to Flexbox](./01-foundations/05-flexbox/01-introduction-to-flexbox.md)
 
 ---
 
