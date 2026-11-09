@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Axes](https://www.theodinproject.com/lessons/foundations-axes)
+- **Current Module:** [Alignment](https://www.theodinproject.com/lessons/foundations-alignment)
 - **Status:** Active
 
 ---
@@ -38,6 +38,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 - [Flexbox](./01-foundations/05-flexbox/)
   - [Introduction to Flexbox](./01-foundations/05-flexbox/01-introduction-to-flexbox.md)
   - [Growing and Shrinking](./01-foundations/05-flexbox/02-growing-and-shrinking.md)
+  - [Axes](./01-foundations/05-flexbox/03-axes.md)
 
 ---
 
