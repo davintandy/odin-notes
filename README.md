@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [Variables and Operators](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
+- **Current Module:** [Data Types and Conditionals](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 - **Status:** Active
 
 ---
@@ -40,6 +40,9 @@ My personal notes and summaries as I work through The Odin Project and learn web
   - [Growing and Shrinking](./01-foundations/05-flexbox/02-growing-and-shrinking.md)
   - [Axes](./01-foundations/05-flexbox/03-axes.md)
   - [Alignment](./01-foundations/05-flexbox/04-alignment.md)
+
+- [JavaScript Basics](./01-foundations/06-javascript-basics/)
+  - [Variables and Operators](./01-foundations/06-javascript-basics/01-variables-and-operators.md)
 
 ---
 
