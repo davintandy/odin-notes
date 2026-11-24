@@ -5,7 +5,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 ---
 
 ## Progress Dashboard
-- **Current Module:** [JavaScript Developer Tools](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
+- **Current Module:** [Function Basics](https://www.theodinproject.com/lessons/foundations-function-basics)
 - **Status:** Active
 
 ---
@@ -44,6 +44,7 @@ My personal notes and summaries as I work through The Odin Project and learn web
 - [JavaScript Basics](./01-foundations/06-javascript-basics/)
   - [Variables and Operators](./01-foundations/06-javascript-basics/01-variables-and-operators.md)
   - [Data Types and Conditionals](./01-foundations/06-javascript-basics/02-data-types-and-conditionals.md)
+  - [JavaScript Developer Tools](./01-foundations/06-javascript-basics/03-javascript-developer-tools.md)
 
 ---
 
